@@ -1,0 +1,11 @@
+{
+  "name": "ts-basics",
+  "version": "1.0.0",
+  "description": "A little repo for better understanding typescript basics",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "Robert J Beall",
+  "license": "ISC"
+}
