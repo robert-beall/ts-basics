@@ -8,6 +8,7 @@
  */
 {
     type DateConstructor = {
+        name: string;
         new (s: string): Date;
     }
 
